@@ -47,3 +47,39 @@
 
 </body>
 </html>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+}
+
+header {
+  background: #111;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 8px;
+}
+
+.price {
+  font-weight: bold;
+  color: #c00;
+}
+
+footer {
+  background: #222;
+  color: #ccc;
+  text-align: center;
+  padding: 15px;
+}
+
